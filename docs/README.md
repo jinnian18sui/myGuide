@@ -1,6 +1,6 @@
 # 介绍
 
-随着时间的迁移，个人学的东西太乱太杂，因此想做这个整理一下。知识点会先用是什么，比较经典的书籍中的介绍，后面会加上目前比较好的解释，以及相应的代码链接。[开始这愉快的旅行吧](https://jinnian18sui.github.io/myGuide) 
+随着时间的迁移，个人学的东西太乱太杂，因此想做这个整理一下。知识点会先用是什么，比较经典的书籍中的介绍，后面会加上目前比较好的解释，以及相应的代码链接。[开始这愉快的旅行吧](https://jinnian18sui.github.io/myGuide)
 
 ## [Markdown 语法](https://www.jianshu.com/p/191d1e21f7ed/)
 
@@ -278,7 +278,7 @@ SSO(Single Sign On)即单点登录说的是用户登陆多个子系统的其中�
 
 ### 书单
 
-- [Java程序员必备书单](docs/data/java-recommended-books.md)
+- [Java程序员必备书单](data/java-recommended-books.md)
 
 ### 实战项目推荐
 
