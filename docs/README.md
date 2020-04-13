@@ -276,6 +276,10 @@ SSO(Single Sign On)即单点登录说的是用户登陆多个子系统的其中�
 
 ## 资源
 
+### 我的书籍
+
+    [Java编程思想](docs\data\book\ThingkingInJava\SUMMARY.md)
+
 ### 书单
 
 - [Java程序员必备书单](data/catalog/java-recommended-books.md)
