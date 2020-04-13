@@ -1,3 +1,3 @@
 # 书单
 
-[java编程思想第五版](docs\docs\book\ThingkingInJava\SUMMARY.md)
+[java编程思想第五版](docs/docs/book/ThingkingInJava/SUMMARY.md)
